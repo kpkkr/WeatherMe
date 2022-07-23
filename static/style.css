@@ -1,0 +1,58 @@
+body{
+    background-image: url("home.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:#fff;
+}
+
+.heading{
+    padding:20px;
+}
+
+.footer{
+    display:flex;
+    justify-content: center;
+    position:relative;
+    top:300px;
+}
+
+.carousel-item h1{
+    font-size:4rem;
+}
+
+.carousel-item{
+    padding:30px;
+}
+
+.middle{
+    height:25%;
+    padding-right:12px;
+}
+
+.go{
+    color:#fff;
+    border:solid;
+}
+
+.button{
+    display:flex;
+    justify-content: center;
+    padding-top:50px;
+}
+
+.form-floating{
+    display:flex;
+    justify-content: center;
+    padding-top:42px;
+}
+
+.form-control{
+    width:50%;
+    height:50%
+}
+
+label{
+    font-size:1.25rem;
+}

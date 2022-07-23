@@ -1,0 +1,30 @@
+body{
+    background-image: url("display2.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+}
+
+.heading{
+    padding:20px;
+}
+
+.info{
+    text-align:center;
+}
+.btn-transparent{
+    color:#fff;
+    border:solid;
+}
+
+.footer{
+    display:flex;
+    justify-content: center;
+}
+
+#image{
+    width:175px;
+    height:175px;
+}
